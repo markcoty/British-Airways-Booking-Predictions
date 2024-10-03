@@ -8,7 +8,7 @@
 ### Four models were trained and fit to the data, using both Random Forest and XGBoost classifiers, with either all variables (columns) used as predictors, or just the six variables with the highest mutual information scores. The Random Forest model with all variables was found to be the best, based on accuracy and AUC.
 
 ## Running the Project
-### All that is required to run the project locally is the data file and Python, as well as the imported libraries that were used to produce the models.
+### All that is required to run the project locally is the data file and Python, as well as the imported libraries that contain the tools that were used to produce the models.
 
 ## Dependencies
 ### CSV file: https://github.com/markcoty/British-Airways-Booking-Predictions/blob/main/customer_booking.csv
