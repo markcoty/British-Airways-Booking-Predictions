@@ -11,3 +11,4 @@
 ### All that is required to run the project locally is the data file and Python, as well as the imported libraries that were used to produce the models.
 
 ## Dependencies
+### CSV file: https://github.com/markcoty/British-Airways-Booking-Predictions/blob/main/customer_booking.csv
